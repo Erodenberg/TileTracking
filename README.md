@@ -13,3 +13,5 @@ excluding low traffic that may include rural or uninhabited areas, like forests,
 water bodies, and even remote farmland. This strategy of selective caching can “save time,” 
 “disk space,” and the areas excluded from the initial cache can be cached “on-demand” 
 (Quinn, 2008). 
+
+The repository contains a workflow for tracking tiles that web clients visit when they consume your cache. The results of this workflow can be displayed as a heatmap showing the most popular tiles, extent, and scale levels browsers consume.
